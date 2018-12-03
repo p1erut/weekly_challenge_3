@@ -38,7 +38,7 @@ a:hover, a:link, a:visited {
   	margin: 0 auto;
 	width: 100%;
 	top: 0;
-	padding: 3vh;
+	padding:3vh 0;
 	flex-direction: row;
 	background: #fff;
 	border-bottom: 3px solid #7cc567;
@@ -434,6 +434,10 @@ a:hover, a:link, a:visited {
 
 	.creative--container {
 		margin-top: 15vh;
+	}
+
+	.treehouse {
+		flex-shrink: 1;
 	}
 }
 
