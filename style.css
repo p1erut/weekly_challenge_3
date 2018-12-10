@@ -85,7 +85,6 @@ a:hover, a:link, a:visited {
     justify-content: center;
     align-items: center;
     height: 70vh;
-    box-sizing: border-box;
 }
 
 .creative--container__mask {
@@ -152,6 +151,7 @@ a:hover, a:link, a:visited {
     background-attachment: fixed;
     background-size: cover;
     width: 75%;
+    box-sizing: border-box;
 }
 
 .relax__right {
@@ -162,6 +162,7 @@ a:hover, a:link, a:visited {
 	flex-basis: 1;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
 }
 
 .relax__right ul {
@@ -173,7 +174,7 @@ a:hover, a:link, a:visited {
 }
 
 .relax__right h1 {
-	font-size: 5.5vh;
+	font-size: 5vh;
 }
 
 .relax__right p {
