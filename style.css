@@ -85,6 +85,7 @@ a:hover, a:link, a:visited {
     justify-content: center;
     align-items: center;
     height: 70vh;
+    box-sizing: border-box;
 }
 
 .creative--container__mask {
